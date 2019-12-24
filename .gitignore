@@ -29,8 +29,3 @@ build/
 
 ### VS Code ###
 .vscode/
-guides.iml
-HELP.md
-mvnw
-mvnw.cmd
-.mvn
